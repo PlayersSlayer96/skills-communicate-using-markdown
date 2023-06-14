@@ -6,3 +6,5 @@
 ###### Es mejor una vida corta y bien vivida, que una vida larga y miserable
 
 > Learning to comment using markdown format 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
